@@ -9,6 +9,6 @@ Welcome to the autonomous knowledge graph.
 - [[10_Wiki/🚀 Skills|Skills]]
 
 ## 📈 Stats
-- Total Nodes: 0
-- Total Links: 0
+- Total Nodes: 2
+- Total Links: 1
 - Last Reinforced: 2026-04-17

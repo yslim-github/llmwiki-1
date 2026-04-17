@@ -1,4 +1,21 @@
 {
-  "nodes": [],
-  "links": []
+  "nodes": [
+    {
+      "id": "9b5385f3-1e00-4575-b6dc-e12afb013939",
+      "label": "Hermes Agent v0.10.0 업데이트 분석",
+      "category": "Skills"
+    },
+    {
+      "id": "7a934226-3aca-4aa2-850e-f3993ae17eb1",
+      "label": "Threads AI 인플루언서 및 지식 리스트",
+      "category": "Topics/AI"
+    }
+  ],
+  "links": [
+    {
+      "source": "9b5385f3-1e00-4575-b6dc-e12afb013939",
+      "target": "7a934226-3aca-4aa2-850e-f3993ae17eb1",
+      "type": "related"
+    }
+  ]
 }
